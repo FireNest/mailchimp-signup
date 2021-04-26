@@ -6,7 +6,7 @@ const https = require('https');
 const request = require('request');
 
 
-console.log(process.env.API_KEY);
+// console.log(process.env.API_KEY);
 
 
 
@@ -49,7 +49,7 @@ app.post("/", (req, res) => {
 
   const options = {
     method: 'POST',
-    auth: process.env.API_KEY
+    auth: `khalid:${process.env.API_KEY}`
   }
 
 
