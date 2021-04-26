@@ -1,0 +1,24 @@
+{
+  "name": "newsletter-signup-practice",
+  "version": "1.0.0",
+  "description": "to deploy on heroku",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireNest/mailchimp-signup.git"
+  },
+  "author": "khalid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FireNest/mailchimp-signup/issues"
+  },
+  "homepage": "https://github.com/FireNest/mailchimp-signup#readme"
+}
