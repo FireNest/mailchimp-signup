@@ -1,0 +1,3 @@
+# mailchimp-signup
+
+this signup page is fully functional and we can add users for newsletter notification...
